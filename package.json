@@ -4,7 +4,8 @@
   "description": "Landing page for natours",
   "main": "index.js",
   "scripts": {
-    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+    "compile:sass":"node-sass sass/main.scss css/style.css"
+    
   },
   "author": "Shubham",
   "license": "ISC",
