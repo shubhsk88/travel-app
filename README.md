@@ -3,6 +3,9 @@
 > A simple website built using html and css to showcase multiple animation effect and give it the real website
 
 
+## Screenshot
+
+![screenshot](screenshot.png)
 
 ## Built With
 
